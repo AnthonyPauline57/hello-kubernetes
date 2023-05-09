@@ -12,7 +12,7 @@ If you are using the [VS Code Remote Containers](https://marketplace.visualstudi
 
 ## Makefile configuration
 
-The `Makefile` in the root folder of the repo provides the functionality to allow you to build and push your own `hello-kubernetes` container image.
+The `Makefile`l in the root folder of the repo provides the functionality to allow you to build and push your own `hello-kubernetes` container image.
 
 ### Environment variables
 

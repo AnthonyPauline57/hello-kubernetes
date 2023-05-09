@@ -14,8 +14,8 @@ jobs:
       DOCKER_USER: anthonypauline57
       GIT_USER: AnthonyPauline57
       CONTAINER_REGISTRY: docker.io
-      CONTAINER_IMAGE: anthonypauline57/hello-kubernetes
-      GIT_REPOSITORY: git@github.com:AnthonyPauline57/hello-kubernetes.git
+      CONTAINER_IMAGE: Anthonypauline57/hello-kubernetes
+      GIT_REPOSITORY: git@github.com:nthonyPauline57/hello-kubernetes.git
       CD_CHART_REPO: deploy/helm/hello-kubernetes
       CD_MANIFEST_FILE: Chart.yaml
 
